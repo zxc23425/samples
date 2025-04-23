@@ -1,5 +1,8 @@
-# portfolio
+# Portfolio samples
 
 ## Description:
-This repository is a portfolio of `projects`. 
-View `copy editing` work here.
+This repository contains work samples of:
+- Copy Editing
+- Copywriting
+- Graph Design
+- Web App UI & Development
