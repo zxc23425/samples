@@ -10,7 +10,8 @@ This repository contains [project](https://github.com/zxc23425/samples/tree/main
 
 -   Copy Editing: 300+ samples
 -   Copywriting
--   Graph Design
+-   Graphic Design
+-   Knowledge Graph Design
 -   Web App UI & Development
 
 --- 
