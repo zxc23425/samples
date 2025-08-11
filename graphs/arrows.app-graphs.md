@@ -2,7 +2,7 @@
 
 ### Neo4j-Skills-Alignment-graph
 https://arrows.app/#/local/id=4c7IWehjXk8FQdOsvk7e
-[Neo4j-Skills-Alignment-graph](./Neo4j-Skills-Alignment-graph.svg)
+![Neo4j-Skills-Alignment-graph](./Neo4j-Skills-Alignment-graph.svg)
 Created: Fri Aug 08 2025 11:54 PM
 
 ---
@@ -32,7 +32,7 @@ https://arrows.app/#/local/id=Fp5x_N4uWNwHL3lizHzM
 
 ### 7 Graphs of Enterprise
 https://arrows.app/#/local/id=_QwhiOCPNMoKYlC6jzuk
-[7 Graphs of Enterprise](https://raw.githubusercontent.com/zxc23425/samples/b47fab8284f3ce8b5a0735213564f318266c1367/graphs/7-Graphs-of-Enterprise.svg)
+![7 Graphs of Enterprise](https://raw.githubusercontent.com/zxc23425/samples/b47fab8284f3ce8b5a0735213564f318266c1367/graphs/7-Graphs-of-Enterprise.svg)
 Created: Thu Mar 13 2025 8:04:11 AM
 
 ---
