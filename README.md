@@ -1,8 +1,18 @@
 # Portfolio samples
 
+[](https://github.com/zxc23425/samples#portfolio-samples)
+
 ### Description:
-This repository contains work samples of:
-- Copy Editing: 300+ samples
-- Copywriting
-- Graph Design
-- Web App UI & Development
+
+[](https://github.com/zxc23425/samples#description)
+
+This repository contains [project](https://github.com/zxc23425/samples/tree/main/Projects) work samples of:
+
+-   Copy Editing: 300+ samples
+-   Copywriting
+-   Graph Design
+-   Web App UI & Development
+
+--- 
+
+[Employer Letter of Reference](https://github.com/zxc23425/samples/tree/main/Letters-of-Reference)
